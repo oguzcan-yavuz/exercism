@@ -6,4 +6,4 @@ describe('Hello World', () => {
     expect(HelloWorld.hello()).toEqual('Hello, World!')
   })
 
-})
+});
